@@ -1,4 +1,4 @@
-# test site
+# Site su di me
 
 I miei interessi in ambito di game dev sono molteplici: Nasco come programmatore, quindi mi interessano tutti i path e gli algoritmi di programmazione, passando per le IA sia quelle stupide, ma anche per quelle più sofisticate che cambiano al cambiare del player. Mia piace anche molto il game design, ma visto che mi sono diplomato ad un tecnico informatico ho preferito continuare sulla programmazione, ma non mi dispiace ne' discutere, ne' occuparmi di tale.
 
